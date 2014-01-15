@@ -1,0 +1,12 @@
+/* TEAM */
+Design/Developer: Melissa Roy
+Site: http://heartedmachine.com
+Twitter: @Melissa_GDesign
+Location: Ottawa, Canada
+
+
+/* SITE */
+Last Update: 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizer, Jquery, HTML, CSS
+Software: Adobe Photoshop, Adobe Illustrator, Adobe DreamWeaver, Livereload
